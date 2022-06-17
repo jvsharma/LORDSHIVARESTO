@@ -1,0 +1,44 @@
+/*div{
+    background-color: lightpink;
+    border-style: solid;
+    border-width: 0.5px;
+}*/
+body{
+    padding: 0px;
+    margin:0px; 
+}
+.inline{
+    display: inline;
+}
+#topsection{
+    background: url(abroad.jpg) center;
+    background-size: 100%;
+    color:black;
+    font-style: bold;
+}
+#education_policy{
+
+    padding-left: 10px;
+    padding-top: 10px;
+}
+#logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.education{
+padding: 0px;
+margin:0px;
+}
+.rowspace{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+ #sign_up_row{
+     background-color: lightslategray;
+ }
+.whitetext{
+    color:white;
+    padding-bottom: 10px;
+}

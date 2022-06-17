@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+#logo{
+    font-family: 'Dancing Script', cursive;
+    color: white;
+}
+.textonimage{
+position: absolute;
+width: 100%;
+text-align: center;
+top: 30%;
+color: white;
+font-size: 40px;
+}
+#top-row{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+#bottom-row{
+    padding-bottom: 20px;
+
+}
+#map{
+    height: 400px;
+}
+#ending-section{
+    padding-bottom: 20px;
+}
